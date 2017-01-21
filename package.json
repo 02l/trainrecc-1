@@ -1,0 +1,20 @@
+{
+  "name": "trainrecc-1",
+  "version": "1.0.0",
+  "description": "User-based music recommendation app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeatherGreenGargoyle/trainrecc-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeatherGreenGargoyle/trainrecc-1/issues"
+  },
+  "homepage": "https://github.com/LeatherGreenGargoyle/trainrecc-1#readme"
+}
